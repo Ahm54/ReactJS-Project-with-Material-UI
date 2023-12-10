@@ -1,0 +1,23 @@
+.backGroundImage{
+    background-clip: url('/src/assets/foto9.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    object-fit: fill;
+    margin-left: 80px;
+    width: 90%;
+    height: 500px;
+    z-index: -1;
+}
+/* .col{
+    background-image: url('/src/assets/foto11.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    object-fit: fill;
+    height: 200px;
+    margin-top: 30px;
+    z-index: -1;
+    margin: 30px;
+} */
+.a{
+    color:black;
+}

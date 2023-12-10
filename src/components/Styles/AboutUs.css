@@ -1,0 +1,8 @@
+.grid1{
+    background-image: url('/src/assets/foto4.jpeg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 100%;
+}

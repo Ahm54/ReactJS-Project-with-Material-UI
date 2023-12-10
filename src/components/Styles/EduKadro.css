@@ -1,0 +1,18 @@
+/* .foto1{
+    height: 330px;
+    width: 180px;
+} */
+
+.card1{
+    height: 500px;
+    width: 75%;
+    background-color: green;
+}
+.img1{
+    background-image: url('/src/assets/EduKadro1.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 120px;
+}
